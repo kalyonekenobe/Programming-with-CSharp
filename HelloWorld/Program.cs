@@ -6,7 +6,7 @@ namespace KMA.ProgrammingWithCSharp.HelloWorld
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello Oleksandr!");
 		}
 	}
 }
